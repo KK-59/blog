@@ -1,0 +1,193 @@
+﻿1. Harry Potter and the Sorcerer's Stone
+2. Harry Potter and the Chamber of Secrets
+3. Harry Potter and the Prisoner of Azkaban
+4. Harry Potter and the Goblet of Fire
+5. Harry Potter and the Order of the Phoenix
+6. Harry Potter and the Half-Blood Prince
+7. Harry Potter and the Deathly Hallows
+8. The Cursed Child
+9. The Lightning Thief
+10. The Sea of Monsters
+11. The Titan's Curse
+12. The Battle of the Labyrinth
+13. The Last Olympian
+14. The Sword of Summer
+15. The Hammer of Thor
+16. The Ship of the Dead
+17. The Red Pyramid
+18. The The Fire
+19. The Serpent's Shadow
+20. The Hidden Oracle
+21. The Dark Prophecy
+22. The Burning Maze
+23. The Tyrants Tomb
+24. The Demigod Diaries
+25. The Demigod Files
+26. 9 From The 9 Worlds
+27. The Fault In Our Stars
+28. Paper Towns
+29. Turtles All The Way Down
+30. Looking For Alaska
+31. An Abundance of Katherines
+32. Let It Snow
+33. Here We Are Now
+34. The White Tiger
+35. Divergent
+36. Insurgent
+37. Convergent
+38. Four
+39. Siren
+40. Selection
+41. Selection
+42. Selection
+43. Selection: the heir
+44. Selection: the throne
+45. My Heart and Other Black Holes
+46. On The Come Up
+47. Simon vs The Homo Sapiens Agenda
+48. Leah on the Offbeat
+49. What If It’s Us
+50. They Both Die At The End
+51. Thea Stilton: Journey To Atlantis 
+52. Thea Stilton: Dance Challenge
+53. Thea Stilton: Cloud Castle
+54. The Secret of the Fairies
+55. Thea Stilton and the Dragon’s Code
+56. Thea Stilton and the Mountain of Fire
+57. Thea Stilton: Big Trouble in Big Apple
+58. Hunger Games
+59. Catching Fire
+60. Mockingjay
+61. I am Malala
+62. Who is Malala Yousafzai
+63. Who is Hillary Clinton
+64. Who is Marie Curie
+65. Who is Frank Lloyd Wright
+66. Who is Mother Teresa
+67. Diary of A Wimpy Kid: Double Down
+68. The Twins at St. Clare's
+69. The O’Sullivan Twins
+70. Summer Term at St. Clare's
+71. St. Clair’s
+72. St. Clair’s
+73. St. Clair’s
+74. St. Clair’s
+75. St. Clair’s
+76. St. Clair’s
+77. Mr. Muddles
+78. How the Dragon lost her voice
+79. Magic Drum and other stories
+80. Librarian of Auschwitz
+81. Stella By Starlight
+82. Sam and Ilsa’s Last Hurray
+83. The First Phone Call From Heaven
+84. The War That Saved my Life
+85. The War I Finally Won
+86. Boy
+87. Witches
+88. Matilda
+89. James and The Giant Peach
+90. George’s Marvelous Medicine
+91. Fantastic Mr. Fox
+92. BFG
+93. Rafa
+94. The Tintins
+95. The Secret Of the Shadow Ranch
+96. The Secret of The Red Gate Farm
+97. Mallory Towers
+98. Mallory Towers
+99. Mallory Towers
+100. Mallory Towers
+101. Mallory Towers
+102. Mallory Towers
+103. Mallory Towers
+104. Malgudi Days
+105. Oliver Twist (abridged)
+106. Thea Stilton: Little Women
+107. Amy Hodgepodge
+108. Amy Hodgepodge
+109. Great Indian Women
+110. Panchatantra
+111. Suppandi
+112. Tinkle
+113. Tinkle
+114. Tinkle
+115. Tinkle
+116. Tinkle
+117. Sherlock Holmes
+118. Pepper Series
+119. Run
+120. Hide
+121. Seek
+122. That one book i cant remember with the diamonds and stuff
+123. The Magician’s Nephew
+124. The Lion, the Witch and the Wardrobe
+125.  Ramayana (abridged)
+126.  The True Story of the 3 Little Pigs
+127.  The True Lives of Fabulous Killjoys 
+128.  The Knight at Dawn
+129.  Dinosaurs Before Dark
+130.  Ever After High: The Storybook of Legends
+131.  The Unfairest of Them All
+132.  Ever After High: A Wonderlandiful World
+133.  Next Top Villain
+134.  Kiss and Spell
+135.  A Semi-Charming Kind of Life
+136.  Fairy’s Got Talent
+137.  Truth or Hair
+138.  Fairy Tail Ending
+139.  Wrinkle in Time
+140.  Rebecca
+141.  Catcher in the Rye 
+142.  Chains
+143.  Ashes
+144.  Forge
+145.  Patron Saints of Nothing
+146.  After the shot drops
+147.  One of us is lying
+148.  One of us is next
+149.  The cousins
+150.  Two can keep a secret
+151.  Blood heir
+152.  Crazy Rich Asians
+153.  China Rich Girlfriend
+154.  Rich people problems
+155.  I’m Feeling lucky
+156.  Steve Jobs
+157.  Purple Hibiscus 
+158.  You Were Here
+159.  You’ll be the death of me
+160.  The Anthropocene Reviewed
+161. Chinese Cinderella
+162. I’ll give you the sun
+163. The 7 Husbands of Evelyn Hugo
+164. The Sound of Waves
+165. The Song of Achilles
+166. PoetX
+167. The Precipice
+168. Shoe dog
+169. Stranger on a lifeboat
+170. Things have gotten worse since we last spoke
+171. 5 feet apart
+172. And then there were none
+173. Murder on the orient express
+174. A brief history of time
+175. Surely you’re joking Mr. Feynman
+176. Physics of the future
+177. Freakonomics
+178. Think like a freak
+179. Sold
+180. The Infinite Noise
+181. Superforecasting 
+182. Tomorrow, and Tomorrow, and Tomorrow
+183. Never Let Me Go
+184. Human Acts
+185. Wide Sargasso Sea
+186. Death and the Maiden
+187. Boom
+188. One of us is back
+189. The Ballad of Songbirds and Snakes
+190. Black Boy
+191. The Stranger 
+192. As Good as Dead
+193. Atlas Shrugged
